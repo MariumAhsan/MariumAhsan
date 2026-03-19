@@ -1,6 +1,6 @@
 ## Hi, I'm Marium! 👋
 
-Computer Science graduate focused on data science, AI, and system-driven solutions.<br><br>I build data-informed applications and explore intelligent systems—from dashboards 📊 to AI-powered projects 🤖. Currently working on advancing my skills in machine learning, cloud technologies, and scalable system design.<br><br>Driven by curiosity, structured thinking, and continuous improvement.<br><br>Here are some ideas to get you started:<br><br>🔭 I’m currently working on my portfolio website, creating webapps with LLM.<br>🌱 I’m currently learning creating an online presence.<br>⚡ Fun fact: I love saying "Cheese" during Lightening Storm, beacause it feels like God is clicking a picture!<br><br>
+Computer Science graduate focused on data science, AI, and system-driven solutions.<br><br>I build data-informed applications and explore intelligent systems—from dashboards 📊 to AI-powered projects 🤖. Currently working on advancing my skills in machine learning, cloud technologies, and scalable system design.<br><br>Driven by curiosity, structured thinking, and continuous improvement.<br><br>Here are some ideas to get you started:<br><br>🔭 I’m currently working on my portfolio website, creating webapps with LLM.<br>🌱 I’m currently learning to create an online presence.<br>⚡ Fun fact: I love saying "Cheese" during Lightening Storm, beacause it feels like God is clicking a picture!<br><br>
 
 <!--
 **MariumAhsan/MariumAhsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
